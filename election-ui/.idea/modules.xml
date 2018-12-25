@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../election-be/.idea/election-be.iml" filepath="$PROJECT_DIR$/../election-be/.idea/election-be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../election-ui/.idea/election-ui.iml" filepath="$PROJECT_DIR$/../election-ui/.idea/election-ui.iml" />
+    </modules>
+  </component>
+</project>
