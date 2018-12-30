@@ -1,2 +1,2 @@
-# playground-etherium-react-election
+# playground-ethereum-react-election
 A simple intro into ethereum smart contracts, truffle, web3 and react.
